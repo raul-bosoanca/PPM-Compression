@@ -1,4 +1,4 @@
-.phonY: build run clear
+.phony: build run clear
 
 all : build run clear
 
